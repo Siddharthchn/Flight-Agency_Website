@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Flight-Agency_Website/static/css/main.fc0706bd.css",
+    "main.js": "/Flight-Agency_Website/static/js/main.7f4d8023.js",
+    "static/media/video.mp4": "/Flight-Agency_Website/static/media/video.327f8eb856699ccba7d5.mp4",
+    "static/media/person1.jpg": "/Flight-Agency_Website/static/media/person1.4a87d9b5eeafc1a6b80a.jpg",
+    "static/media/person4.jpg": "/Flight-Agency_Website/static/media/person4.fc28102532afb35288ee.jpg",
+    "static/media/person3.jpg": "/Flight-Agency_Website/static/media/person3.68b9aceb8482e4453641.jpg",
+    "static/media/takeoff2.png": "/Flight-Agency_Website/static/media/takeoff2.f60394187962cb0202f0.png",
+    "static/media/person2.jpg": "/Flight-Agency_Website/static/media/person2.063851efe1ce473c6c7d.jpg",
+    "static/media/paris.jpg": "/Flight-Agency_Website/static/media/paris.afc65ed83da7a809921a.jpg",
+    "static/media/imageGrid.jpg": "/Flight-Agency_Website/static/media/imageGrid.85614314f3b06ffba0d7.jpg",
+    "static/media/newyork.jpg": "/Flight-Agency_Website/static/media/newyork.85b39b614a7a198c0717.jpg",
+    "static/media/grid-image2.jpeg": "/Flight-Agency_Website/static/media/grid-image2.cdb29eec288f8c01feee.jpeg",
+    "static/media/dubai.jpg": "/Flight-Agency_Website/static/media/dubai.6182dab08761ff738939.jpg",
+    "static/media/london.jpg": "/Flight-Agency_Website/static/media/london.6add67cd875337799785.jpg",
+    "index.html": "/Flight-Agency_Website/index.html",
+    "main.fc0706bd.css.map": "/Flight-Agency_Website/static/css/main.fc0706bd.css.map",
+    "main.7f4d8023.js.map": "/Flight-Agency_Website/static/js/main.7f4d8023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0706bd.css",
+    "static/js/main.7f4d8023.js"
+  ]
+}
