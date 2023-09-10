@@ -4,7 +4,7 @@
   <h1 align="center">Flight-Agency</h1>
 
   <h3 align="center">
-  This is a landing page for Fligh Agency with React.js, SASS and react-icons,aos library.
+  This is a landing page for Flight Agency with React.js, SASS and react-icons,aos library.
   </h3>
  <br />
  
